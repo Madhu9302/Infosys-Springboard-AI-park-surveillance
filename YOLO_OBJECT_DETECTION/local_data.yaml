@@ -1,0 +1,6 @@
+train: C:\Users\Jayku\OneDrive\Desktop\Park.Dataset.v2i.yolov11\train\images
+val: C:\Users\Jayku\OneDrive\Desktop\Park.Dataset.v2i.yolov11\valid\images
+test: C:\Users\Jayku\OneDrive\Desktop\Park.Dataset.v2i.yolov11\test\images
+
+nc: 8
+names: ['bicycle', 'bus', 'car', 'house', 'motorcycle', 'person', 'river', 'tree']
